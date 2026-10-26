@@ -7,6 +7,8 @@
 
 ▶ **[ブラウザで遊ぶ](https://superdeterminism-dream.sunny-seed-0354.chatgpt.site)**
 
+![SUPERDETERMINISM ゲーム画面](assets/gameplay.jpg)
+
 ## この作品について
 
 操作している手応えはある。それでも、世界の流れまでは変えられない。
