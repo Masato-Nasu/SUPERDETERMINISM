@@ -39,7 +39,7 @@ HTML・CSS・JavaScriptを一つのファイルに収録しています。
 静的Webサーバー、GitHub Pages、Cloudflare Pagesなどでも配信できます。
 現在の公開版は上記のChatGPT SitesのURLです。このリポジトリへの変更はSitesへ自動反映されません。
 
-Prototype 08
+Prototype 10
 
 Concept / Direction: Masato Nasu  
 Created with ChatGPT
